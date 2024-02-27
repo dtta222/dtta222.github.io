@@ -283,6 +283,10 @@ section {
     display: flex;
 }
 
+.intro-pic {
+    border-radius: 10rem;
+}
+
 .about-pic {
     border-radius: 2rem;
 }
